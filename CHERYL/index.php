@@ -2,7 +2,7 @@
     $name = "CHERYL FAITH FALDAS";
     $address = "Piña, Buenavista, Guimaras";
     $zip_code = 5044;
-    $contact_no = "09207087340";
+    $contact_no = 9207087340;
     $email = "cherylfaithfaldas1128@gmail.com";
     $DOB = "January 28, 2004";
     $POB = "Piña, Buenavista, Guimaras";
